@@ -3,7 +3,7 @@ import {setAlert} from './alert';
 
 import {
   GET_PROFILE,
-  PROFILE_ERROR
+  PROFILE_ERROR,
 } from './types';
 
 //Get current user profile
